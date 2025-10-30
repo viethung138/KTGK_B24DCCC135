@@ -1,0 +1,1 @@
+"# KTGK_B24DCCC135"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/viethung138/KTGK_B24DCCC135.gitgit push -u origin main
